@@ -67,7 +67,7 @@
 
   -  See [deploy_gpu.sh](/serverless/deploy_gpu.sh) script for more examples.
 
-####Debugging Nuclio Functions:
+#### Debugging Nuclio Functions:
 
 - You can open nuclio dashboard at [localhost:8070](http://localhost:8070). Make sure status of your functions are up and running without any error.
 
